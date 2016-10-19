@@ -1,2 +1,3 @@
 name: garfield
 age: 8
+source: Comic
